@@ -23,11 +23,11 @@ Menu
   2. <b>Admin</b>
 <ul> <h4>Cadastro</h4>
       <ul><li>CPF</li>
-		      <li>...</li></ul>
+		      <li>..</li></ul>
 	 </ul>
      <ul><h4>Remover cadastro</h4>
 	      <ul><li>CPF</li></ul></ul>
       </ul>
       <ul><h4>Estoque tipos de sangue</h4></ul>
-      <ul><h4>Estoque equipamentos</h4></ul>
+      <ul><h4>Estoque equipamentos do estabelecimento</h4></ul>
       </ul>
