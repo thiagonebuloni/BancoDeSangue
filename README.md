@@ -23,7 +23,7 @@ Menu
   2. <b>Admin</b>
 <ul> <h4>Cadastro</h4>
       <ul><li>CPF</li>
-		      <li>...</li></ul>
+		      <li>..</li></ul>
 	 </ul>
      <ul><h4>Remover cadastro</h4>
 	      <ul><li>CPF</li></ul></ul>
