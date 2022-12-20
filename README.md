@@ -29,5 +29,5 @@ Menu
 	      <ul><li>CPF</li></ul></ul>
       </ul>
       <ul><h4>Estoque tipos de sangue</h4></ul>
-      <ul><h4>Estoque equipamentos</h4></ul>
+      <ul><h4>Estoque equipamentos do estabelecimento</h4></ul>
       </ul>
